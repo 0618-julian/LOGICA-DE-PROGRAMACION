@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+5
+a,b,c
+6
+3
+1
+s
+7
+(a+b+c)
+1
+d
+8
+(s*0.20)
+1
+z
+3
+s-d
+4
+1
+79
+' el valor a pagar sera de ', z, ' con un descuento del 20% que equivale a ', d
+1
