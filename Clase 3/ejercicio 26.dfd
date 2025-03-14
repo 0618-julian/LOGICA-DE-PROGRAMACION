@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+'ingrese su peso y su altura'
+5
+1
+3
+p,a
+6
+1
+3
+imc
+7
+p/(a*a)
+4
+1
+20
+'su imc es de ', imc
+7
+0
+1
+9
+imc >24.9
+7
+0
+1
+9
+imc >18.5
+4
+1
+27
+'por debajo del peso ideal'
+13
+4
+1
+16
+'peso saludable'
+13
+13
+4
+1
+22
+'fuera del peso ideal'
+13
+1
