@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+8
+1
+1
+i
+1
+1
+0
+1
+1
+0
+1
+1
+1
+4
+1
+18
+'ingrese su saldo'
+5
+1
+1
+n
+7
+0
+1
+9
+n>=100000
+4
+1
+25
+'no cumple, consigne mas'
+6
+1
+1
+i
+3
+i-1
+13
+4
+1
+28
+'cumple con el saldo minimo'
+13
+10
+1
